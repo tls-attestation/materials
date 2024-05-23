@@ -211,4 +211,7 @@ Hence probably needs swapping out BoringSSL and bringing in OpenSSL and making u
 ## Spec work
 
 Triaged existing issues, created new issues, assigned issues to the [Vancouver milestone](https://github.com/tls-attestation/draft-tls-attestation/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Vancouver+%28was%3A+Brisbane%29%22).
+## FV work
 
+- discussed open issues with participants
+- discussed the next steps for the paper on formal verification
