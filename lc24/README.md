@@ -169,7 +169,6 @@ Paper at CLOSER 2024: ["Benefits of Dynamic Computational Offloading for Mobile 
     - Very few comments in Inria's formal model
     - Incomplete validation of draft 20 artifacts
     - Not easily extensible
-- [link to slides](https://github.com/tls-attestation/materials/blob/main/lc24/Formalization-Usama.pdf)
 - Do all implementations that rely on RA-TLS use TLS v1.2 (as specified)?
 	- no, they've actually ported it to v1.3, despite no updated spec
 - "No result" outcome from ProVerif is not an explicit signal, just implicit from the fact that the run seems to never finish
