@@ -165,7 +165,7 @@ Paper at CLOSER 2024: ["Benefits of Dynamic Computational Offloading for Mobile 
 
 - Challenges in specification 
     - Incomplete and outdated specs for Intel's RA-TLS
-- Chellenges from formal perspective 
+- Challenges from formal perspective 
     - Very few comments in Inria's formal model
     - Incomplete validation of draft 20 artifacts
     - Not easily extensible
