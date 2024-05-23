@@ -13,14 +13,14 @@ Room: TSC2 | Avila
 | Name | Organisation | Country | Remote/Onsite |
 |--|--|--|--|
 | Arnaud de Grandmaison | Arm | FR | Onsite |
-| Arto Niemi | Huawei | FI | Onsite
+| Arto Niemi | Huawei | FI | Onsite |
 | Carsten Weinhold | Barkhausen Institut | DE | Remote |
 | Guilhem Bryant | Arm | GB | Remote |
 | Ionut Mihalcea | Arm | GB | Onsite |
 | Jimmy Kjällman | Ericsson | FI | Onsite
 | Leonardo Garcia | Linaro | BR | Onsite |
 | Muhammad Usama Sardar | TU Dresden | DE | Onsite |
-| Ondrej Smid | Ericsson | SE | Onsite
+| Ondrej Smid | Ericsson | SE | Onsite |
 | Paul Howard | Arm | GB | Onsite (and attending full Connect event) |
 | Thomas Fossati | Linaro | CH | Onsite |
 | Thore Sommer | Uni Kiel | DE | Onsite |
