@@ -1,6 +1,6 @@
 # Attested TLS workshop @ [Linaro Connect 2024](https://www.linaro.org/connect)
 
-[**RECORDING LINK**](https://armltd.zoom.us/rec/share/89YzsxVzOEIgnG9I8wX1LGJEjEsz6yVr2pNiTS8zOBUS78RVVIJ8GKSOftPv9Nhi.75rwsyl7unw_dTVt) ( Passcode: *t#$^A5xi* )
+[**link to the recordings**](https://armltd.zoom.us/rec/share/89YzsxVzOEIgnG9I8wX1LGJEjEsz6yVr2pNiTS8zOBUS78RVVIJ8GKSOftPv9Nhi.75rwsyl7unw_dTVt) ( Passcode: *t#$^A5xi* )
 
 May 16 2024, 8am-6pm
 
@@ -12,19 +12,19 @@ Room: TSC2 | Avila
 
 | Name | Organisation | Country | Remote/Onsite |
 |--|--|--|--|
-| Thomas Fossati | Linaro | CH | Onsite |
+| Arnaud de Grandmaison | Arm | FR | Onsite |
+| Arto Niemi | Huawei | FI | Onsite
+| Carsten Weinhold | Barkhausen Institut | DE | Remote |
+| Guilhem Bryant | Arm | GB | Remote |
 | Ionut Mihalcea | Arm | GB | Onsite |
-| Muhammad Usama Sardar | TU Dresden | DE | Onsite |
 | Jimmy Kjällman | Ericsson | FI | Onsite
+| Leonardo Garcia | Linaro | BR | Onsite |
+| Muhammad Usama Sardar | TU Dresden | DE | Onsite |
 | Ondrej Smid | Ericsson | SE | Onsite
 | Paul Howard | Arm | GB | Onsite (and attending full Connect event) |
-| Arto Niemi | Huawei | FI | Onsite
-| Guilhem Bryant | Arm | GB | Remote |
-| Yuxuan Song | Inria | FR | Onsite |
+| Thomas Fossati | Linaro | CH | Onsite |
 | Thore Sommer | Uni Kiel | DE | Onsite |
-| Arnaud de Grandmaison | Arm | FR | Onsite |
-| Carsten Weinhold | Barkhausen Institut | DE | Remote |
-| Leonardo Garcia | Linaro | BR | Onsite |
+| Yuxuan Song | Inria | FR | Onsite |
 
 ## Agenda
 
@@ -34,7 +34,7 @@ Room: TSC2 | Avila
 | Paul Howard | Use Cases | Role of attested TLS in service mesh | 9:20 - 9:40 |
 | Paul Howard | Use Cases | Mutual attestation of cloud and edge nodes | 9:40 - 10:00 |
 | Jimmy Kjällman & Ondrej Smid | Use Cases and Implementations | Ericsson use case and rusttls prototype | 9:00 - 9:20 |
-| 20 min break | | | 10:00 - 10:20 |
+| break | | | 10:00 - 10:20 |
 | Guilhem Bryant | Use cases and Implementations | Using attested TLS to build a trusted cloud | 10:20 - 10:40 |
 | Ionut Mihalcea | Implementations | mbedTLS prototype: present and future | 11:00 - 11:20 |
 | Thomas Fossati | Spec work | Report | 11:20 - 11:40 |
