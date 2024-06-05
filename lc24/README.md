@@ -1,6 +1,6 @@
 # Attested TLS workshop @ [Linaro Connect 2024](https://www.linaro.org/connect)
 
-[**link to the recordings**](https://armltd.zoom.us/rec/share/89YzsxVzOEIgnG9I8wX1LGJEjEsz6yVr2pNiTS8zOBUS78RVVIJ8GKSOftPv9Nhi.75rwsyl7unw_dTVt) ( Passcode: *t#$^A5xi* )
+[**link to the recordings**](https://www.youtube.com/playlist?list=PL9UCOkrOiLcQ4pcnbVNqvQx3-pF5_wrYS)
 
 May 16 2024, 8am-6pm
 
